@@ -1,3 +1,4 @@
+Hi👋,I,m Dhanush KJ
 # 💫 About Me:
 <br>AI & ML student passionate about building practical AI solutions.<br>Skilled in Python, Machine Learning, and Data Science.<br>Currently learning Deep Learning and working on real-world projects.<br>Always curious, learning, and building. 🚀<br>
 
